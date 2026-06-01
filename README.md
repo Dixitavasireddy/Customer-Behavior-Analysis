@@ -1,5 +1,4 @@
 # Customer-Behavior-Analysis
-# Customer Behavior Analysis
 
 ## Task 1 - Data Analytics Internship
 
